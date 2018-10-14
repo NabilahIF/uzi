@@ -1,4 +1,4 @@
-trnsl.1.1.20181014T133914Z.ac1489e796e44d5c.4140d67250b93b193fc7872c75a798b822fa4a5f<?php
+<?php
 $method = $_SERVER['REQUEST_METHOD'];
 // Process only when method is POST
 if($method == 'POST'){
